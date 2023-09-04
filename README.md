@@ -1,2 +1,3 @@
-# wallpaper
-UWEcyber desktop wallpaper for use with multiple VMs in use
+# UWEcyber Wallpaper
+
+UWEcyber desktop wallpaper - multiple colours available to help when using multiple VMs at once :)
